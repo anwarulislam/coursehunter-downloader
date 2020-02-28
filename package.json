@@ -1,7 +1,7 @@
 {
-  "name": "chdl",
+  "name": "coursehunter-downloader",
   "version": "2.0.0",
-  "description": "",
+  "description": "You can download courses from course-hunter by this script",
   "main": "index.js",
   "scripts": {
     "start": "node index"
@@ -16,8 +16,7 @@
     "inquirer": "^6.5.1",
     "validator": "^11.1.0"
   },
-  "private": true,
   "repository": {
-    "url": "https://gitlab.com/shoaibsharif/chdl.git"
+    "url": "https://gitlab.com/anwarulislam/coursehunter-downloader.git"
   }
 }
