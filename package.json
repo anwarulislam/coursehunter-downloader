@@ -14,7 +14,7 @@
     "cheerio": "^1.0.0-rc.3",
     "cli-progress": "^2.1.1",
     "inquirer": "^6.5.1",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "repository": {
     "url": "https://gitlab.com/anwarulislam/coursehunter-downloader.git"
